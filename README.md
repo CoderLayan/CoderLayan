@@ -14,9 +14,9 @@
 
 ## My Journey
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Princess_Nourah_Bint_Abdulrahman_University_logo.png" alt="PNU" width="120"/>
+  <img src="https://i0.wp.com/mhtwyat.com/wp-content/uploads/2021/03/%D8%B4%D8%B9%D8%A7%D8%B1-%D8%AC%D8%A7%D9%85%D8%B9%D9%87-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D8%A9-%D9%86%D9%88%D8%B1%D9%87-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B4%D9%81%D8%A7%D9%81-%D9%88%D9%85%D9%81%D8%B1%D8%BA.png?resize=1200%2C630&ssl=1" alt="PNU" width="120"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://tuwaiq.edu.sa/static/media/logo.8d382d45.svg" alt="Tuwaiq" width="120"/>
+  <img src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-noname.png" alt="Tuwaiq" width="120"/>
 </p>
 
 ---
@@ -33,6 +33,11 @@
 
 ---
 
+## Connect With Me
+![LinkedIn](https://www.linkedin.com/in/layan-aljunayh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+![Email](mailto:layanazizcs@gmail.com)
+
+---
 ## Quote
 > *"The goal is to turn data into information, and information into insight."* – Carly Fiorina  
 
