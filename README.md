@@ -1,14 +1,7 @@
+## About Me
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Layan+Aljunayh;Computer+Science+Undergrad;Data+Analytics+Enthusiast;Tuwaiq+Holberton+Trainee" alt="Typing SVG" />
 </p>
-
----
-
-## About Me
-🎓 Bachelor’s student in *Computer Science* at **Princess Nourah University*  
-👩🏻‍💻 Tuwaiq Holberton Trainee  
-💡 Passionate about data-driven decision making, visualization, and problem-solving  
-🎯 Goal: To become a skilled Data Analyst  
 
 ---
 
@@ -17,6 +10,7 @@
   <img src="https://i0.wp.com/mhtwyat.com/wp-content/uploads/2021/03/%D8%B4%D8%B9%D8%A7%D8%B1-%D8%AC%D8%A7%D9%85%D8%B9%D9%87-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D8%A9-%D9%86%D9%88%D8%B1%D9%87-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B4%D9%81%D8%A7%D9%81-%D9%88%D9%85%D9%81%D8%B1%D8%BA.png?resize=1200%2C630&ssl=1" alt="PNU" width="120"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-noname.png" alt="Tuwaiq" width="120"/>
+  <img src="https://ml.globenewswire.com/Resource/Download/a08e6c28-55be-44c8-8461-03544f094b38" alt="holberton" width="120"/>
 </p>
 
 ---
