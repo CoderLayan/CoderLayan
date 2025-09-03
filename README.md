@@ -34,8 +34,8 @@
 ---
 
 ## Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]https://www.linkedin.com/in/layan-aljunayh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:layanazizcs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/layan-aljunayh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:layanazizcs@gmail.com) 
 
 ---
 ## Quote
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
 </p>
