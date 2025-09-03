@@ -4,7 +4,7 @@
 
 ---
 
-##About Me
+## About Me
 🎓 Bachelor’s student in *Computer Science* at **Princess Nourah University*  
 👩🏻‍💻 Tuwaiq Holberton Trainee  
 💡 Passionate about data-driven decision making, visualization, and problem-solving  
@@ -12,7 +12,7 @@
 
 ---
 
-##My Journey
+## My Journey
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Princess_Nourah_Bint_Abdulrahman_University_logo.png" alt="PNU" width="120"/>
   &nbsp;&nbsp;&nbsp;
