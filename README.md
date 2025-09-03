@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Layan Aljunayh  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Princess_Nourah_Bint_Abdulrahman_University_logo.png" width="120">  
-<img src="https://tuwaiq.edu.sa/static/media/logo.8d382d45.svg" width="120">  
+<img src="https://makkahnewspaper.com/uploads/images/2019/12/05/1122270.jpg" width="120">  
+
 💻 Computer Science Undergrad | Data Analytics Enthusiast | Tuwaiq Holberton Trainee  
 
 ---
@@ -19,9 +19,7 @@
 - Data Analytics Tools & Libraries: Pandas | NumPy | Matplotlib  
 - Other Tools & Platforms: GitHub | Linux 🐧 | VS Code  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>  
 
 ---
 
