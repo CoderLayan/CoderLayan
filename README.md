@@ -4,7 +4,7 @@
 
 ---
 
-## � About Me
+##About Me
 🎓 Bachelor’s student in *Computer Science* at **Princess Nourah University*  
 👩🏻‍💻 Tuwaiq Holberton Trainee  
 💡 Passionate about data-driven decision making, visualization, and problem-solving  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🖼️ My Journey
+##My Journey
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Princess_Nourah_Bint_Abdulrahman_University_logo.png" alt="PNU" width="120"/>
   &nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Quote
+## Quote
 > *"The goal is to turn data into information, and information into insight."* – Carly Fiorina  
 
 ---
